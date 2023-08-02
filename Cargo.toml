@@ -3,6 +3,9 @@ name = "uuid_gen"
 version = "0.1.0"
 edition = "2021"
 authors = ["Angr1st"]
+description = "Cli tool to generate a single uuid v4."
+license = "MIT"
+repository = "https://github.com/Angr1st/uuid_gen"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
