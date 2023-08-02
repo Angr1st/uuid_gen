@@ -1,0 +1,9 @@
+[package]
+name = "cargo_uuid"
+version = "0.1.0"
+edition = "2021"
+authors = ["Angr1st"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+uuid = { version = "1.4.1", features = ["v4"]}
